@@ -407,7 +407,7 @@ var Icon$B = function (props) {
 
 var Icon$A = function (props) {
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React__default['default'].createElement("image", { width: 90, height: 90, href: "/images/kesef/rock_icon.svg" })));
+        React__default['default'].createElement("image", { width: 90, height: 90, href: "/images/kesef/icon.svg" })));
 };
 
 var Icon$z = function (props) {
