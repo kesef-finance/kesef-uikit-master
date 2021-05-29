@@ -2038,7 +2038,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/keseffinance",
+                href: "https://github.com/kesef-finance",
             },
             {
                 label: "Blog",
@@ -2054,7 +2054,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/kesef",
+                href: "https://t.me/kesef-finance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2097,8 +2097,8 @@ var socials = [
             //   href: "https://t.me/pancakeswapfr",
             // },
             {
-                label: "Announcements",
-                href: "https://t.me/kesef",
+                label: "Join Group",
+                href: "https://t.me/kesef_finance",
             },
             // {
             //   label: "Whale Alert",
@@ -2109,7 +2109,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/kesef_bsc",
+        href: "https://twitter.com/FinanceKesef",
     },
 ];
 var MENU_HEIGHT = 64;
