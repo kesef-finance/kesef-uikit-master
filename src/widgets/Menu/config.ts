@@ -101,8 +101,8 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
-        href: "https://t.me/kesef-finance",
+        label: "Group",
+        href: "https://t.me/kesef_finance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -145,8 +145,8 @@ export const socials = [
       //   href: "https://t.me/pancakeswapfr",
       // },
       {
-        label: "Join Group",
-        href: "https://t.me/kesef_finance",
+        label: "Announcements",
+        href: "https://t.me/kesef_finance_ann",
       },
       // {
       //   label: "Whale Alert",
