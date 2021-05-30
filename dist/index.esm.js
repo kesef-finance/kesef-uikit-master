@@ -336,8 +336,8 @@ var Icon$G = function (props) {
 };
 
 var Icon$F = function (props) {
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 102 52" }, props),
-        React.createElement("image", { width: "102", height: "52", href: "/images/kesef/logo.svg" })));
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 205 52" }, props),
+        React.createElement("image", { width: "205", height: "52", href: "/images/kesef/logo.svg" })));
 };
 
 var Icon$E = function (props) {
