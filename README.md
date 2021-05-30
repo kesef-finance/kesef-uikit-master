@@ -1,4 +1,4 @@
-# 🥞 Kesef UIkit
+# ✡️ Kesef UIkit
 
 [![Version](https://img.shields.io/npm/v/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@pancakeswap-libs/uikit)
 
