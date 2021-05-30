@@ -4,13 +4,11 @@ import { space, SpaceProps } from "styled-system";
 export type CardBodyProps = SpaceProps;
 
 const CardBody = styled.div<CardBodyProps>`
-  ${space},
-  background: #ffffff9e;
-  backdrop-filter: blur(1px);
+  ${space}
 `;
 
 CardBody.defaultProps = {
-  p: "24px"
+  p: "24px",
 };
 
 export default CardBody;

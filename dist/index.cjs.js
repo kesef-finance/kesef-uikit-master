@@ -695,9 +695,9 @@ var Card = function (_a) {
         children));
 };
 
-var CardBody = styled__default['default'].div(templateObject_1$A || (templateObject_1$A = __makeTemplateObject(["\n  ", ",\n  background: #ffffff9e;\n  backdrop-filter: blur(1px);\n"], ["\n  ", ",\n  background: #ffffff9e;\n  backdrop-filter: blur(1px);\n"])), styledSystem.space);
+var CardBody = styled__default['default'].div(templateObject_1$A || (templateObject_1$A = __makeTemplateObject(["\n  ", "\n"], ["\n  ", "\n"])), styledSystem.space);
 CardBody.defaultProps = {
-    p: "24px"
+    p: "24px",
 };
 var templateObject_1$A;
 
